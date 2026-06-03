@@ -8,3 +8,8 @@ Kullanılan kütüphaneler :
 `cv2`  
 `streamlit`  
 `pillow`  
+
+Nasıl çalıştırılır ? 
+Projenin klasöründe terminal açtıktan sonra `streamlit run arayuz.py` yazın.  
+Eğitilip projede kullanılan modeli `runs/detects/train-7` klasöründe bulabilirsiniz.
+Modelin eğitiminde kullanılan kodları çalıştırmak için `python model.py` yazın.
